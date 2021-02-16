@@ -1,0 +1,336 @@
+.body {
+ font-family: 'Myriad Pro';
+}
+
+.header {
+	max-width: 1200px;
+}
+
+
+@media(max-width:1200px){
+	
+	.header{
+		max-width: 970px;
+}
+}
+
+@media(max-width: 992px){
+	.header{
+		max-width: 750px;
+	}
+}
+
+@media(max-width: 767px){
+	.header{
+		max-width: none;
+	}
+}
+.header_logo {
+	font-size: 30px;
+	color: #438ab1;
+}
+
+.nav {
+	font-size: 13px;
+	color: #fff;
+	padding-left: 400px; 
+}
+
+.nav_link {
+	position: relative;
+	vertical-align: top;
+	margin: 0 15px;
+	color:blue;
+	padding: 0 0 20px 20px;
+
+}
+
+
+.product-holder {
+position: absolute;
+opacity: 80%;
+  max-width: 100%; 
+    height: 100%; 
+margin-top: -100px;
+
+}
+
+.plus-image {
+position: absolute;
+opacity:60%;
+width:100%; 
+height: 90%;
+margin-top: -350px;
+margin-left: -300px;
+}
+
+.card-title {
+	font-size: 32px;
+margin-top: -490px ;
+margin-left: 50px;
+color: #fff;
+}
+
+.card-text {
+
+	position: relative;
+margin-top: -440px;
+margin-left: 250px;
+color: #fff;
+font-size: 16px;
+}
+
+.img-fa {
+	padding-left: 200px;
+}
+
+.btn {
+	display: inline-block;
+	margin-top: 40px;
+	border: 3px solid #000000;
+	font-size: 16px;
+	font-weight: 700;
+	color: #000000;
+	text-transform: uppercase;
+	text-decoration: none;
+	margin-left: 200px;
+	position: relative;
+}
+
+.main {
+	max-width: 1300px;
+}
+
+@media(max-width:1200px){
+	.main{
+		max-width: 970px;
+	}
+}
+
+@media(max-width: 992px){
+	.main{
+		max-width: 750px;
+	}
+}
+
+@media(max-width: 767px){
+	.main{
+		max-width: none;
+	}
+}
+
+.section-main {
+padding: 550px 20px 20px 20px;
+
+}
+
+.samol {
+	margin: 120px;
+max-width: 1000px;
+
+}
+
+.about {
+	max-width: 1300px;
+}
+
+@media(max-width:1200px){
+	.about{
+		max-width: 970px;
+	}
+}
+
+@media(max-width: 992px){
+	.about{
+		max-width: 750px;
+	}
+}
+
+@media(max-width: 767px){
+	.about{
+		max-width: none;
+	}
+}
+
+.title-about {
+position: relative;
+padding-top: 410px;
+padding-left:150px;
+font-size: 16px;
+font-weight: bold;
+}
+
+.nuyork-image {
+	background-color: 382c5d;
+left: 0%;
+top: 0%;
+position: absolute;
+margin-top: 1100px;
+margin-left: 0px;
+opacity:60%;
+background-blend-mode: initial;
+ max-width: 100%; 
+    height: 80%; 
+}
+
+.ravno-image {
+	padding-top: 55px;
+left: 0%;
+position: absolute;
+opacity:60%;
+}
+
+.nalog {
+position: absolute;
+margin: 400px 0 100px 600px;
+}
+
+.play {
+	position: absolute;
+	margin-left: -40px;
+	margin-top: -50px;
+	
+}
+
+.krug {
+	position: absolute;
+	margin-top: -75px;
+	margin-left: -80px;
+}
+
+.features {
+	max-width: 1300px;
+	padding-top: 350px;
+}
+
+.img-fea {
+	text-align: center;
+	position: relative;
+}
+.title-fea {
+	text-align: center;
+}
+
+.text-fea {
+	text-align: center;
+}
+
+.miit {
+		max-width: 1300px;
+	padding-top: 350px;
+}
+
+.section-hidir {
+	padding-right: 400px;
+}
+
+.title-miit {
+	text-align: center;
+	margin-right: ;
+}
+
+.text-miit {
+
+	position: relative;
+	margin-left:380px;
+	font-family: PlayfairDisplay regular;
+	font-size: 16px;
+}
+
+.over {
+	display: inline-block;
+  max-width: 100%;
+  position: absolute;
+  padding-top: -300px;
+  	opacity: 70%;
+}
+
+.wow {
+	position: relative;
+	margin-top: -90px;
+
+}
+
+.img-f {
+	width: 1200px;
+	padding: left;
+}
+
+.btn-2 {
+	display: inline-block;
+	border: 3px solid #000000;
+	font-size: 16px;
+	font-weight: 700;
+	color: #000000;
+	text-transform: uppercase;
+	text-decoration: none;
+	position: relative;
+}
+
+.sub-title {
+margin-left: 870px;
+margin-top: -30px;
+}
+
+.btn-3 {
+	display: inline-block;
+	border: 3px solid #000000;
+	font-size: 16px;
+	font-weight: 700;
+	color: #000000;
+	text-transform: uppercase;
+	text-decoration: none;
+	position: relative;
+	margin-left: 530px;
+	margin-top: 20px;
+}
+
+.material-holder {
+position: absolute;
+margin-left: -75px;
+opacity: 80%;
+max-width:1340px;
+}
+
+.minus-image {
+left: 0%;
+position: absolute;
+opacity:60%;
+max-width:1300px;
+}
+
+.gif {
+	display: block;
+  margin: 0 auto;
+}
+
+.tobo {
+		max-width: 1300px;
+	padding-top: 700px;
+}
+
+.tobo-title {
+	text-align: center;
+}
+
+.end {
+	max-height: 20%;
+	padding-top: 50px;
+}
+
+.over {
+width: 1200px;
+height: 500px;
+	position: absolute;
+	opacity: 60%;
+}
+
+
+.row0 {
+	position: relative;
+	margin-top: -500px;
+}
+
+.text-end {
+color: White;
+}
